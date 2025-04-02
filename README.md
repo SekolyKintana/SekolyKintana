@@ -7,7 +7,7 @@ Welcome to the GitHub home of **Sekoly Kintana**, a Montessori school in Taolagn
 ## 🧭 About Us
 
 At Sekoly Kintana, we blend:
-- **Montessori methodology** (birth to age 15)
+- **Montessori methodology** (18 months to age 15)
 - The **Sounds & Shapes Precision Phonics™** approach for early literacy
 - Trilingual instruction in **Malagasy, English, and French**
 - SEL, coaching theory, and **indigenous knowledge systems**
